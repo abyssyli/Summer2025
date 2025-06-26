@@ -1,3 +1,6 @@
+# Update 0626
+You can try either koffi062601.py and koffi 062602.py. I cannot use google colab currently but I will be back to the U.S. this weekend. If your cpu is not large enough I guess the final comparison plot would not show. That happened to my laptop twice this night which was fucking stupid. So I said please run the file on your laptop if it is avaliable. Thank you very much professor and see you after your lecture ends today!
+
 # Summer2025
 
 This repository was created to provide updates to Professor Koffi.
