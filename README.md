@@ -14,3 +14,5 @@ koffi612.py: PINNS for waive equation.
 koffi612.py issue: why the last graph is so wierd? Because there should be \lambda1, \lambda2, \lambda3, respectively, in front of each of the three loss funtions.
 
 The next step: the reaction difussion equation. Due by next Tuesday 3 PM, LA time.
+
+Update 0701: Removed the two .py files. Added the notebook for Linear Reaction Diffusion Equation. However, that is uselsss, because the linearity makes accurate approximation especially sensitive to the initial and boundary conditions, as any small mismatch propagates clearly through the solution.
