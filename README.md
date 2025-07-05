@@ -1,3 +1,5 @@
+# Wishing Professor Koffi a safe flight to Paris, and God bless you and your brother.
+
 # Summer2025
 
 This repository was created to provide updates to Professor Koffi.
