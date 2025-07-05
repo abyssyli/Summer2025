@@ -15,3 +15,5 @@ The next step: the reaction difussion equation. Due by next Tuesday 3 PM, LA tim
 Update 0701: Removed the two .py files. Added the notebook for Linear Reaction Diffusion Equation. However, that is uselsss, because the linearity makes accurate approximation especially sensitive to the initial and boundary conditions, as any small mismatch propagates clearly through the solution.
 
 PINN for 1D Reaction-Diffusion System: Schnakenberg Model.ipynb: 💩😮‍💨
+
+Koffi0704: Current limitations include boundary prediction errors and flat interior solutions.  We decomposed the loss into individually weighted components (λ_f, λ_i, λ_b).  Manual tuning of these weights is ongoing to improve model accuracy.
